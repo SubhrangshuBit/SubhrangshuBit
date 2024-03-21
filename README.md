@@ -1,6 +1,6 @@
 ### 👋 Hi there
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Subhrangshu Bit
-🔭 I have my research in **Data Science**. Majorly focusing upon **Computer Vision, Graphical Modelling & Statistical Learning.**
+🔭 I have my research in **AI for Medicine**. Majorly focusing upon **Temporal Representation Learning and Computer Vision**
 <p>
   <em>
     <b>Data Science Enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
@@ -46,14 +46,14 @@
   <a href="https://www.instagram.com/_tib_13/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <!--<a href="https://mobile.twitter.com/MahendraNandi2" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/twitter-777BB4?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
-![Git stats](https://github-readme-stats.vercel.app/api?username=subhrangshubit&show_icons=true&hide=issues)
+<!-- ![Git stats](https://github-readme-stats.vercel.app/api?username=subhrangshubit&show_icons=true&hide=issues) -->
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NLP based Recommendation Engines.
-- 🌱 I’m currently learning docker systems.
-- 👯 I’m looking to collaborate on probabilistic graphical modelling.
-- 🤔 I’m looking for help with training generative models with imbalanced datasets.
+- 👨🏻‍💻 [Website](https://subhrangshubit.github.io)
+- 🔭 I am currently working on prediction of adverse events
+- 🌱 I’m currently learning docker systems
+- 👯 I’m looking to collaborate on interesting new research ideas for AI in medicine.
+- 🤔 I’m learning about multimodal foundation models.
 - 💬 Ask me about anything!!
-- 📫 How to reach me: Mail me at - subhrangshubit@gmail.com
+- 📫 How to reach me: Mail me at - sbit@bu.edu
 - ⚡ Fun fact: I am pretty good at FIFA :P
